@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Gerados em tempo de execução
+uploads/
+uploads.log
+database.db
